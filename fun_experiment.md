@@ -1,5 +1,5 @@
 # Simple Custom Combination Guide:
-*You can experiment with all kinds of combinations using this method. Just make sure there's **enough sugar in the mix**, because that's what helps the microbes active. 
+You can experiment with all kinds of combinations using this method. Just make sure there's **enough sugar in the mix**, because that's what helps the microbes active. 
 ## Easy Sugar Sources:
 - Banana peel
 - Apple peel
