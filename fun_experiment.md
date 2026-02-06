@@ -6,7 +6,7 @@ You can experiment with all kinds of combinations using this method. Just make s
 - Peach peel
 - Carrot peel
 ---
-## 🍑 Peel Blends (Suggested Ratios)
+## 🍑 Peel Blends (Suggested Ratios by Copilot)
 
 - **Banana + Peach (50/50)** — floral, summer blend  
 - **Banana + Apple (70/30)** — reliable fermentation, mild aroma  
