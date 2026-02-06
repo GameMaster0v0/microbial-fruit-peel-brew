@@ -69,7 +69,7 @@ Scale up or down depending on jar size.
 
 ## 5. Preparing the Jar
 
-Use a clean glass jar
+Use a clean jar or any container 
 
 **Instructions:**
 1. Fill the jar with cold water.
