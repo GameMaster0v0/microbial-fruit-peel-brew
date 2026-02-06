@@ -25,7 +25,7 @@ Baking:
 - concentrates sugars for fermentation
 
 **Instructions:**
-1. Spread peels on a tray.
+1. Spread peels on a tray. (Or use an airfryer)
 2. Bake at **90–120°C (195–250°F)**.
 3. Bake until fully dry and crisp.
 4. Let them cool completely.
