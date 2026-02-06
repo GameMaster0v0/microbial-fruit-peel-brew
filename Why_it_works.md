@@ -131,3 +131,6 @@ This method works because it combines:
 - zero‑waste principles
 
 The result is a gentle, predictable, low‑odor infusion that supports soil life without the mess of traditional peel teas.
+
+Yep you guessed, copilot. To put it simple, you need enough food for the right microbes (sugar), the right microbes and the right temperature for the right microbes to survive and be happy. 
+This method just help to create the environment/s where the right microbes thrives and gets fed. (hopefully)
