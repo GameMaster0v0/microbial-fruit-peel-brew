@@ -153,8 +153,8 @@ Only the **ambient temperature** affects the speed, not the water temperature.
 ## 7. Using the Liquid
 
 You can:
-- pour directly onto soil  
-- dilute 1:1 for sensitive plants  
+- dilute 1:8 for most plants 
+- dilute more for sensitive plants
 - use weekly or bi‑weekly  
 
 Use within a few days after removing the tea bag.
