@@ -7,12 +7,8 @@ The goal is to create a gentle, microbially active liquid using only fruit peels
 
 ## 1. Collecting Fruit Peels
 
-Suitable peels:
-- banana (recommended base)
-- apple
-- peach
-- mango
-- small amounts of citrus (optional, use lightly)
+Peels:
+- At least one banana peel (recommended for potassium)
 
 Avoid:
 - moldy fruit
@@ -54,9 +50,10 @@ This powder becomes your “tea.”
 ## 4. Filling the Tea Bag
 
 Use:
-- biodegradable tea bags  
-- reusable cloth bags  
-- muslin bags  
+- biodegradable tea bags (recommended)
+- Resuable empty tea bags
+- DIY tea bags (for example cut and staple english breakfast tea bags)
+- Regular empty tea bags 
 
 **Recommended ratio:**  
 Use the equivalent of **1/3 of a dried banana peel (as powder) per 250 ml of water**.  
@@ -64,7 +61,7 @@ Scale up or down depending on jar size.
 
 **Instructions:**
 1. Add the appropriate amount of peel powder to the tea bag.
-2. Fill the bag about halfway so the powder has room to expand.
+2. Fill the bag about halfway so the powder has room to expand. (1/3 dried peel approx. about halfway or less for a **regular size tea bag**)
     - (Overfilling reduces water flow and slows fermentation.)
 3. Tie or seal securely.
 
@@ -72,7 +69,7 @@ Scale up or down depending on jar size.
 
 ## 5. Preparing the Jar
 
-Use a clean glass jar (500 ml to 1 L).
+Use a clean glass jar
 
 **Instructions:**
 1. Fill the jar with cold water.
@@ -97,7 +94,7 @@ This method produces a **clear, tea‑colored infusion**, not a cloudy compost t
 **Instructions:**
 1. Leave the jar at room temperature.
 2. Keep it out of direct sunlight.
-3. Steep for **1–2 weeks**.
+3. Steep for **1–2 weeks**. (Depends on the temperature of your room)
 
 ## Temperature Notes
 
@@ -174,7 +171,6 @@ Just compost it or bury it in a plant pot.
 
 ## 9. Notes & Tips
 
-- Banana peel should be **50% or more** of any blend.
 - Cold water prevents anaerobic rot.
 - A breathable cover is essential.
 - Grinding improves consistency but is optional.
@@ -182,4 +178,3 @@ Just compost it or bury it in a plant pot.
 
 ---
 
-End of method.
