@@ -84,9 +84,7 @@ See the full license in the `LICENSE` file.
 ## 🌿 Future Additions
 
 - Detailed method (`method.md`)  
-- Troubleshooting guide  
-- Fermentation notes  
-- Photo examples  
+- Troubleshooting guide    
 - FAQ  
 
 Contributions (non‑commercial) are welcome.
