@@ -34,33 +34,6 @@ It’s closer to a **fruit‑peel kombucha for soil microbes** than a typical pe
 
 ---
 
-## 🍌 Quick Start (Simple Version)
-
-1. **Bake** fruit peels until dry.  
-2. **Grind** into a coarse powder.  
-3. **Fill** a tea bag with the powder.  
-4. **Place** the tea bag in a jar of cold water.  
-5. **Cover** the jar with breathable mesh or a tea bag.  
-6. **Steep** for 1–2 weeks at room temperature.  
-7. **Use** the liquid on plants.  
-8. **Compost** the used tea bag.
-
-For the full detailed method, see:  
-➡️ **method.md** (coming soon)
-
----
-
-## 🍑 Peel Blends (Suggested Ratios)
-
-- **Banana + Peach (50/50)** — floral, summer blend  
-- **Banana + Apple (70/30)** — reliable fermentation, mild aroma  
-- **Banana + Mango (60/40)** — sweet, tropical profile  
-- **Banana + Citrus (80/20)** — bright aroma (use citrus lightly)  
-
-Banana peel acts as the fermentation “engine,” so keep it at **50% or more**.
-
----
-
 ## ♻️ Zero‑Waste Philosophy
 
 - The tea bag is biodegradable.  
@@ -83,7 +56,6 @@ See the full license in the `LICENSE` file.
 
 ## 🌿 Future Additions
 
-- Detailed method (`method.md`)  
 - Troubleshooting guide    
 - FAQ  
 
