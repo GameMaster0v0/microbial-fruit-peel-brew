@@ -41,7 +41,7 @@ Grinding increases surface area and speeds extraction.
 **Instructions:**
 1. Break dried peels into pieces.
 2. Grind using a blender, grinder, or mortar.
-3. Aim for a **coarse powder** — not too fine.
+3. Aim for a **coarse powder** or fine powder is fine (I prefer coarse size for bury it in the soil) 
 
 This powder becomes your “tea.”
 
@@ -53,7 +53,7 @@ Use:
 - biodegradable tea bags (recommended)
 - Resuable empty tea bags
 - DIY tea bags (for example cut and staple english breakfast tea bags)
-- Regular empty tea bags 
+- Regular empty tea bags
 
 **Recommended ratio:**  
 Use the equivalent of **1/3 of a dried banana peel (as powder) per 250 ml of water**.  
