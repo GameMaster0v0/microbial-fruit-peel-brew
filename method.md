@@ -171,10 +171,10 @@ Just compost it or bury it in a plant pot.
 
 ## 9. Notes & Tips
 
-- Cold water prevents anaerobic rot.
-- A breathable cover is essential.
-- Grinding improves consistency but is optional.
-- Baking is what keeps this method clean and low‑odor.
+- Cold water prevents anaerobic rot.(not sure about this? Copilot suggest it)
+- A breathable cover is essential. 
+- Grinding improves consistency and speed the process. 
+- Baking is what keeps this method clean and low‑odor.(For me it is for easy storage, and also increase the percentage of the sugar in the peel; By removing the moisture, which makes this method possible and increase the success rate.) 
 
 ---
 
